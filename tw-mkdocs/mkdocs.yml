@@ -1,11 +1,13 @@
-site_name: Wizeline MkDocs Template
+site_name: Ivo Sam - Senior Technical Writer
 nav:
-  - Home: index.md
-  - About: about.md
+  - About Me: index.md
+  - Experience: experience.md
+  - Education: education.md
+  - Selected Past Work: past_work.md
 
 theme:
   name: material
   palette:
-    primary: black
+    primary: red
     accent: indigo
-  logo: images/wizeline_isotype.png
+  logo: images/profile_pic.JPG
